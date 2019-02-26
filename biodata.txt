@@ -1,0 +1,13 @@
+	biodata
+
+Nama	= Muhamad Ilham habib
+id line	= m.ilham_habib
+NPM	= 140810180018
+Kelas	= B
+Univ	= Unpad
+Prodi	= Teknik Informatika 2018
+TTL	= Bandung, 19 juni 2000
+Gol	= AB+
+Hobby	= Jalan2 dan Olahraga
+Tim favorit = Manchaster United
+Pemain favorit = David Degea
